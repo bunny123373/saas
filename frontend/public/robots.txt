@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://bunnymovies.vercel.app.xml
+Sitemap: https://bunnymovies.vercel.app/sitemap.xml
+
